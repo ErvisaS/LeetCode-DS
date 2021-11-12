@@ -10,3 +10,7 @@ class Solution {
     return false;
       }  
     }
+
+
+//Runtime: 3 ms, faster than 99.56% of Java online submissions for Contains Duplicate.
+//Memory Usage: 42.3 MB, less than 90.29% of Java online submissions for Contains Duplicate.
